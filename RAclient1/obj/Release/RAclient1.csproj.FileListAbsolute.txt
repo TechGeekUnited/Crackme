@@ -1,0 +1,2 @@
+C:\Users\joshu\source\repos\RAclient1\RAclient1\obj\Release\RAclient1.csproj.AssemblyReference.cache
+C:\Users\joshu\source\repos\RAclient1\RAclient1\obj\Release\RAclient1.csproj.SuggestedBindingRedirects.cache

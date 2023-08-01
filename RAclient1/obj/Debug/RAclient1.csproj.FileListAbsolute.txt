@@ -1,0 +1,10 @@
+C:\Users\joshu\source\repos\RAclient1\RAclient1\obj\Debug\RAclient1.csproj.AssemblyReference.cache
+C:\Users\joshu\source\repos\RAclient1\RAclient1\obj\Debug\RAclient1.csproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\source\repos\RAclient1\RAclient1\obj\Debug\RAclient1.csproj.GenerateResource.cache
+C:\Users\joshu\source\repos\RAclient1\RAclient1\obj\Debug\RAclient1.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\RAclient1\RAclient1\bin\Debug\Crackme.exe.config
+C:\Users\joshu\source\repos\RAclient1\RAclient1\bin\Debug\Crackme.exe
+C:\Users\joshu\source\repos\RAclient1\RAclient1\bin\Debug\Crackme.pdb
+C:\Users\joshu\source\repos\RAclient1\RAclient1\obj\Debug\Crackme.Properties.Resources.resources
+C:\Users\joshu\source\repos\RAclient1\RAclient1\obj\Debug\Crackme.exe
+C:\Users\joshu\source\repos\RAclient1\RAclient1\obj\Debug\Crackme.pdb
